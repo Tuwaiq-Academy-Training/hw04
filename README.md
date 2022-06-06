@@ -3,7 +3,6 @@
 using the following node packages:
 - https://github.com/patorjk/figlet.js
 - https://github.com/SBoudrias/Inquirer.js
-<!-- - https://www.npmjs.com/package/axios -->
 
 create the following apps:
 ## Fancy Drawer
@@ -35,4 +34,6 @@ and determain if they are healthy of not depending on their age
 using the following table: 
 
 
-<!-- ## no idea -->
+## Shapes in the terminal
+
+find a package and build an application that draws shapes on the terminal, draw to your heart's content but have some form of shapes printed to the screen when the user runs the program, don't use canvas (that's an html dom thing)
