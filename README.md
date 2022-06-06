@@ -30,19 +30,19 @@ Thank You for playing :)
 using the Inquirer package, ask the user multiple questions about their age ,weight, height and gender,
 
 and then calculate the BMI using this equation = weight/height^2
-and determain if they are healthy of not depending on their age
+and determain if they are healthy or not depending on their age
 using the following table:
 ### for ages 20 and above:  
 Category BMI range | kg/m2
 ----|-----
-Severe Thinness| < 16
-Moderate Thinness| 16 - 17
-Mild Thinness| 17 - 18.5
-Normal| 18.5 - 25
-Overweight| 25 - 30
-Obese Class I| 30 - 35
-Obese Class II| 35 - 40
-Obese Class III| > 40
+Severe Thinness| < 16%
+Moderate Thinness| 16% - 17%
+Mild Thinness| 17% - 18.5%
+Normal| 18.5% - 25%
+Overweight| 25% - 30%
+Obese Class I| 30% - 35%
+Obese Class II| 35% - 40%
+Obese Class III| > 40%
 
 ### ages 2-20
 Category| Percentile Range
