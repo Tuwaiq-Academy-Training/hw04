@@ -1,14 +1,15 @@
-# Day 04 
+# Day 04
 
 using the following node packages:
+
 - https://github.com/patorjk/figlet.js
 - https://github.com/SBoudrias/Inquirer.js
 
 create the following apps:
+
 ## Fancy Drawer
 
 write a program to take the user's input and print it in a fancy way like this:
-
 
 ```bash
 > enter a sentence: hello world
@@ -22,8 +23,7 @@ write a program to take the user's input and print it in a fancy way like this:
 
 
 Thank You for playing :)
- ```
-
+```
 
 ## BMI App
 
@@ -31,8 +31,26 @@ using the Inquirer package, ask the user multiple questions about their age ,wei
 
 and then calculate the BMI using this equation = weight/height^2
 and determain if they are healthy of not depending on their age
-using the following table: 
+using the following table:
+### for ages 20 and above:  
+Category BMI range | kg/m2
+----|-----
+Severe Thinness| < 16
+Moderate Thinness| 16 - 17
+Mild Thinness| 17 - 18.5
+Normal| 18.5 - 25
+Overweight| 25 - 30
+Obese Class I| 30 - 35
+Obese Class II| 35 - 40
+Obese Class III| > 40
 
+### ages 2-20
+Category| Percentile Range
+-------|---------
+Underweight| <5%
+Healthy weight| 5% - 85%
+At risk of overweight| 85% - 95%
+Overweight| >95%
 
 ## Shapes in the terminal
 
